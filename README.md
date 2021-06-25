@@ -10,7 +10,8 @@
  Disadvantage:-
   1. Does not capture numpad keys.
 
-Requirements:-
- You need to install pynput Python module. You can install it by pip command:-
+# Requirements:-
+  
+  You need to install pynput Python module. You can install it by pip command:-
    
    pip install pynput
