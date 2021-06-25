@@ -16,6 +16,6 @@ Requirements:-
    pip install pynput
   
  
-#IMPORTANT 
+IMPORTANT 
 
 Note that you need to enable less secure apps to access your email account in order for the keylogger script to send you emails. Please check how to do that in the   documentation of your particular email provider. 
