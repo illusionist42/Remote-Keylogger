@@ -1,7 +1,7 @@
 # Do not use this program for hacking accounts or any illegal activities
 
 1. Download both files keylogger.py and keylogger_trigger.py
-2. Change the email address and time in keylogger_trigger.py and 
+2. Change the email address, password and time in keylogger_trigger.py and 
 3. Run keylogger_trigger.py
 
 
