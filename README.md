@@ -3,8 +3,8 @@
  
  Speciality:-
   
-  1. Send report by email.
-  2. Capture keys pressed on keyboard.
+  1. Capture keys pressed on keyboard.
+  2. Send report by email.
   3. Works with all OS.
 
  Disadvantage:-
